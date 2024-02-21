@@ -1,0 +1,33 @@
+.div2{
+   flex: 1;
+   padding: 50px;
+   margin-left: 50px;
+}
+h1{
+    text-align:center;
+    color:rgb(7, 7, 66);
+}
+label{
+    display:block;
+    font-size: large;
+}
+#co,#po,#ta{
+    width: 200px;
+
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+#div1{
+flex: 1;
+padding: 100px;
+margin-top: 50px;
+margin-right: 30px;
+margin-bottom: 30px
+
+}
+body{
+    background-image: url('C:/Users/pc/Desktop/atelier1web/word/img.avif');
+    background-size: cover;
+}
